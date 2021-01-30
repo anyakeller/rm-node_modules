@@ -1,0 +1,23 @@
+{
+  "name": "rm-node_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyakeller/rm-node_modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyakeller/rm-node_modules/issues"
+  },
+  "homepage": "https://github.com/anyakeller/rm-node_modules#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
